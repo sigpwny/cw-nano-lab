@@ -1,0 +1,11 @@
+chipwhisperer
+holoviews
+ipykernel
+ipywidgets
+jupyter_bokeh
+logic2-automation
+nbformat
+notebook
+pandas
+scipy
+scikit-learn
