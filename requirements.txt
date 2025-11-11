@@ -4,6 +4,7 @@ ipykernel
 ipywidgets
 jupyter_bokeh
 logic2-automation
+matplotlib
 nbformat
 notebook
 pandas
